@@ -63,7 +63,7 @@ Distributed under the Apache License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Joseph Reilly - josephreilly2@gmail.com
+Joseph Reilly - joseph2reilly@gmail.com
 
 Project Link: [https://github.com/josephreilly22/blackjack-card-counting](https://github.com/josephreilly22/blackjack-card-counting)
 
